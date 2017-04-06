@@ -4,8 +4,8 @@ var green = [75, 100, 40];
 var blue = [196, 77, 55];
 var purple = [280, 50, 60];
 
-var myName = "Michael";
-var showBoat = "Everett";
+var myName = "Mike";
+var showBoat = "3real";
 
 if(myName.length > 3) {
     bubleShape = "circle";
